@@ -65,4 +65,4 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-(Add deployment link here after deployment)
+https://share.streamlit.io/
