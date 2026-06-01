@@ -227,7 +227,7 @@ p,label,div{
 def load_data():
 
     df = pd.read_csv(
-        "Data/medicine_dataset.csv",
+        "Data/small_medicine_dataset.csv",
         low_memory=False
     )
 
