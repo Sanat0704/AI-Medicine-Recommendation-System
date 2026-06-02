@@ -36,10 +36,6 @@ Healthcare medicine dataset containing:
 
 ---
 
-## 📸 Screenshots
-D:\Drug-Analysis-Project\screenshot\amrs.png
-D:\Drug-Analysis-Project\screenshot\details.png
-D:\Drug-Analysis-Project\screenshot\medicinesearch.png
 
 
 ---
